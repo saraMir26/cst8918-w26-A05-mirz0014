@@ -26,7 +26,7 @@ provider "cloudinit" {
 }
 
 variable "labelPrefix" {
-  description = "mirz0014 - Resource name prefix"
+  description = "School username - Resource name prefix"
   type        = string
 }
 
